@@ -1,0 +1,239 @@
+* {
+    font-family: arial;
+}
+
+#topBar {
+    width: 100%;
+    background-color: black;
+    align-items: center;
+}
+
+#nav {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 500px;
+}
+
+#home {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.header {
+    margin-left: 15px;
+    color: inherit;
+    text-decoration: none;
+}
+
+#cyan {
+    background-color: aqua;
+    width: 500px; 
+    height: 100px;
+}
+
+#content {
+    border-color: rgb(105, 104, 104);
+    border-style: solid;
+    background-color: rgb(248, 241, 241);
+    width: 495px; 
+    height: 300px;
+}
+
+img#marker {
+    width:15px;
+    height: auto;
+}
+
+img#cog {
+    width: auto;
+    height: 15px;
+    color:inherit;
+}
+
+#settings {
+    display: flex;
+    align-items: center;
+    color: inherit;
+    text-decoration: none;
+}
+
+.username {
+    margin-left: 30px;
+}
+
+.jane {
+    margin-top: 50px;
+}
+
+#education {
+    background-color: rgb(82, 79, 79);
+    width: 500px;
+    height: 40px;
+    
+}
+
+#educate {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+
+}
+
+#ed {
+    border-color: rgb(105, 104, 104);
+    border-style: solid;
+    background-color: rgb(248, 241, 241);
+    width: 494px;
+    text-align: left;
+
+}
+
+.title {
+    background-color: rgb(82, 79, 79);
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.amount {
+    background-color: lightgray;
+    border-radius: 150%;
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.names {
+    border-color: rgb(105, 104, 104);
+    border-style: solid;
+    background-color: rgb(248, 241, 241);
+    width: 294px; 
+}
+
+.button {
+    width: 30px;
+    height: 30px;
+}
+
+#todd {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 15px
+}
+
+#phil {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 15px
+}
+
+.requests {
+    margin-left: 70px;
+}
+
+.more {
+    border-color: rgb(105, 104, 104);
+    border-style: solid;
+    background-color: rgb(248, 241, 241);
+    width: 274px; 
+    margin-top: -2px;
+    height: 30px;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 20px
+}
+
+#body {
+    display: flex;
+    justify-content: space-between;
+    width: 824px;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+.friends {
+    margin-top: 40px;
+}
+
+#user {
+    height: auto;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: -360px;
+}
+
+#information {
+    margin-top: -100px;
+}
+
+.edu {
+    margin-left: 30px;
+}
+
+.link {
+    color:inherit;
+    text-decoration: none;
+}
+
+button {
+    background-color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    color: white;
+    border: none;
+}
+
+.profilePicture {
+    width: 40px;
+    height: 40px;
+    
+}
+
+.p1 {
+    position:relative;
+    left: 1090px;
+    top: -555px;
+}
+
+.p2 {
+    position:relative;
+    left: 1045px;
+    top: -505px;
+}
+
+.p3 {
+    position:relative;
+    left: 1000px;
+    top: -360px;
+}
+
+.p4 {
+    position:relative;
+    left: 956px;
+    top: -310px;
+}
+
+.p5 {
+    position:relative;
+    left: 911px;
+    top: -260px;
+}
+
+.p6 {
+    position:relative;
+    left: 866px;
+    top: -210px;
+}
+
+.friend {
+    margin-bottom: 30px;
+}
